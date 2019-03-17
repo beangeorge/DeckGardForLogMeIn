@@ -1,4 +1,4 @@
-THe project is a basice game form manipulatiuong card from a deck
+The project is a basic game form manipulate card from a deck
 
 the project are created by using spring boot for making REST microservice
 
