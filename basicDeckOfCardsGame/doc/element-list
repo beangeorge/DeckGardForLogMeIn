@@ -1,0 +1,5 @@
+org.logmein.basicDeckOfCardsGame
+org.logmein.basicDeckOfCardsGame.controller
+org.logmein.basicDeckOfCardsGame.dao
+org.logmein.basicDeckOfCardsGame.exception
+org.logmein.basicDeckOfCardsGame.model
